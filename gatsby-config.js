@@ -3,6 +3,7 @@ module.exports = {
     title: "Altmeta Pixel Demo",
     siteUrl: "https://darenleongzy.github.io/pixel-site/",
   },
+  pathPrefix: `/pixel-site`,
   plugins: [
     "gatsby-plugin-emotion",
     "gatsby-plugin-image",
