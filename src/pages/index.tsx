@@ -15,7 +15,7 @@ const TestButtons: React.FC<TestButtonProps> = ({ fbq }) => {
   return (
     <>
       <h2 style={paragraphStyles}>Test events</h2>
-      <button name="SubscribeButtonClick">Subscribe</button>
+      <button name="SubscribeButtonClick">Subscribes</button>
       <button
         name="Purchase"
         onClick={() => {
